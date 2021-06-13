@@ -1,0 +1,23 @@
+img {
+  width: 500px;
+}
+
+.btn#navy {
+  background-color: navy;
+  color: white;
+}
+
+.btn#white {
+  background-color: white;
+  color: black;
+}
+
+.navy-background {
+  background-color: navy;
+  color: white;
+}
+
+.white-background {
+  background-color: white;
+  color: black;
+}
